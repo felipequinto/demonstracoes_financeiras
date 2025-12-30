@@ -10,6 +10,7 @@ Projeto em Python para praticar **raspagem de dados**, **tratamento de informaç
 
 ## Estrutura do Projeto
 
+```
 demonstracoes_financeiras/
 │
 ├── data/
@@ -25,7 +26,7 @@ demonstracoes_financeiras/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ## Etapas do Pipeline
 
