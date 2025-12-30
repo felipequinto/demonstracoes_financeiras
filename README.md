@@ -4,7 +4,7 @@ Projeto em Python para praticar **raspagem de dados**, **tratamento de informaç
 
 ## Objetivo
 
-- Raspar o balancete da empresa **SESC RJ** a partir do site da empresa.
+- Raspar o balancete do SESC RJ a partir do site oficial da empresa..
 - Tratar e padronizar os dados
 - Gerar demonstrações financeiras a partir do balancete
 
