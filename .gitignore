@@ -1,0 +1,11 @@
+# Dados
+data/raw/
+data/processed/
+data/outputs/
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.env
